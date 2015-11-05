@@ -36,5 +36,5 @@ PROM console: Se accede con "command"+"tilde eñe".
 + [NeXTCube wiki](https://es.wikipedia.org/wiki/NeXTcube)
 + [NeXT wiki](https://es.wikipedia.org/wiki/NeXT#Primera_generaci.C3.B3n)
 + [Algo para el "Loading from Network"](http://www.nextcomputers.org/forums/viewtopic.php?t=3686&sid=4e791aba2adb2f98a71e4f8c086327e5)
-[EL foro](http://www.nextcomputers.org/forums/index.php?sid=833c7dd986b580141ab059bbedba8997)
-[Hardware reference](https://docs.google.com/document/d/1CmCQ5rdU69MtfVcfgxzJ5aLT7VnopSbywILZrK9B_Ko/edit)
++ [EL foro](http://www.nextcomputers.org/forums/index.php?sid=833c7dd986b580141ab059bbedba8997)
++ [Hardware reference](https://docs.google.com/document/d/1CmCQ5rdU69MtfVcfgxzJ5aLT7VnopSbywILZrK9B_Ko/edit)
