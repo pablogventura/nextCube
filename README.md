@@ -11,25 +11,29 @@ Funcionan todos los cables CPU-Monitor, CPU-corriente, todos los teclados (3), m
 
 #####CPU 0: 
  * Prende! Pero se queda en "Loading from Network". 
+ * [NeXTcube Turbo](https://en.wikipedia.org/wiki/NeXTcube_Turbo)
  + Fuente: NeXT Part N° 983 serie AAB0016575.
- + Motherboard: NeXT Inc (1991) PN 4644.AA N° ADA0010168. RAM?
-![20151106_112126.jpg](https://bitbucket.org/repo/b46q7y/images/3015795550-20151106_112126.jpg)
+ + Motherboard: NeXT Inc (1991) PN 4644.AA N° ADA0010168. 
+   * RAM?
+   * CPU: [Motorola 68040, 33MHz](https://en.wikipedia.org/wiki/Motorola_68040) with integrated [floating point unit](https://en.wikipedia.org/wiki/Floating-point_unit)
+![20151106_112126.jpg](https://bitbucket.org/repo/b46q7y/images/3015795550-20151106_112126.jpg)CPU: 33 MHz 68040 with integrated floating-point unit
  + Hard drive: Maxtor corporation (1985), model XT-87605, capacidad 260Mb, N° 5850251.
  + más algo que supongo es lectora de diskette (floppy disk).
 
 #####CPU1: 
  * No prende, estaba todo desconectado. Tampoco funciona conectando.
+ + [NeXTcube](https://es.wikipedia.org/wiki/NeXTcube)
  + Fuente: Falta anotar esta info.
- + Motherboard: NeXT Inc (1990) PN-1698.AE N° AAX0011193. RAM?
-![20151106_112059.jpg](https://bitbucket.org/repo/b46q7y/images/4149666494-20151106_112059.jpg)
+ + Motherboard: NeXT Inc (1990) PN-1698.AE N° AAX0011193. 
+   * 16MB de RAM
+   * PC: [Motorola 68040, 25 MHz](https://en.wikipedia.org/wiki/Motorola_68040)
+![20151106_112059.jpg](https://bitbuchttp://www.datasheetarchive.com/PC68040-datasheet.htmlket.org/repo/b46q7y/image/4149666494-20151106_112059.jpg)
  + Hard drive: NEXT Optical Drive, model N3000, capacidad 256Mb, N° AAD0007082.
  + Hard drive: Seagate Technology Inc, model ST41650N, N°ABF0500281, capacidad SIN INFO supongo [esto](https://th99.bl4ckb0x.de/h/txt/4332.txt).
 
 #####Cambio de hardware:
  + Motherboard PN-1698.AE + Fuente 983 + Hard drive Seagate ST41650N : Prende! Pero se queda en "Boot device not found" (en la PROM).
  + Motherboard PN-1698.AE + Fuente 983 +  Hard drive NEXT Optical Drive N3000: Prende! Pero se queda en "Boot devide not found"(en la PROM).
-
-#####Diferencia entre las motherboards
 
 #####Queda para desarmar y ver:
   + Problema en la fuente de CPU1? 
