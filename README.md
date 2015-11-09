@@ -23,7 +23,7 @@ Funcionan todos los cables CPU-Monitor, CPU-corriente, todos los teclados (3), m
 #####CPU1: 
  * No prende, estaba todo desconectado. Tampoco funciona conectando.
  + [NeXTcube](https://es.wikipedia.org/wiki/NeXTcube)
- + Fuente: Falta anotar esta info.
+ + Fuente: NeXT Part N°983 serie AAB0010216.
  + Motherboard: NeXT Inc (1990) PN-1698.AE N° AAX0011193. 
    * 16MB de RAM
    * PC: [Motorola 68040, 25 MHz](https://en.wikipedia.org/wiki/Motorola_68040)
