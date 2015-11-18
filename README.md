@@ -14,7 +14,7 @@ Funcionan todos los cables CPU-Monitor, CPU-corriente, todos los teclados (3), m
  * [NeXTcube Turbo](https://en.wikipedia.org/wiki/NeXTcube_Turbo)
  + Fuente: NeXT Part N° 983 serie AAB0016575.
  + Motherboard: NeXT Inc (1991) PN 4644.AA N° ADA0010168. 
-   * RAM?
+   * RAM 32MB
    * CPU: [Motorola 68040, 33MHz](https://en.wikipedia.org/wiki/Motorola_68040) with integrated [floating point unit](https://en.wikipedia.org/wiki/Floating-point_unit)
 ![20151106_112126.jpg](https://bitbucket.org/repo/b46q7y/images/3015795550-20151106_112126.jpg)CPU: 33 MHz 68040 with integrated floating-point unit
  + Hard drive: Maxtor corporation (1985), model XT-87605, capacidad 260Mb, N° 5850251.
@@ -45,8 +45,29 @@ Sin éxito de booteo hasta ahora. Se queda en "Loading from network" o "Boot dev
 
 #####PROM console: 
  + Se accede con "command"+"tilde eñe".
+NeXT ROM monitor comands:
  + h->despliega lista de monitor commands.
- + p->permite inspeccionar y cambiar algunas configuraciones.. 
+ + p->permite inspeccionar y cambiar parametros de configuración.
+ + b->boot from device.
+
+
+###Intentos de booteo
+
+####1.- 
+En CPU 0, hice :
+
+NeXT> bsd(0,0,0) //boot from hard disk 
+Responde: SCSI Bus Hung
+
+NeXT> bsd(1,0,0)
+Responde: SCSI Bus Hung
+
+NeXT> bfd(0,0,0) //boot from floppy disk
+Responde: No Floppy Disk Present //tenía que sacarme la duda.
+
+en CPU, cambié el hard disk Maxtor por el Seagate:
+ NeXT> bsd(0,0,0)
+ sc: Didn't complete //muchas veces y se colgó en eso.
 
 ####algunos links:
 + http://www.dudek.org/blog/35
@@ -60,3 +81,6 @@ Sin éxito de booteo hasta ahora. Se queda en "Loading from network" o "Boot dev
 + [Artículos](http://www.nextcomputers.org/NeXTfiles/Articles/)
 + [Patentes](http://www.nextcomputers.org/NeXTfiles/Articles/)
 + [68040_manual](http://www.nextcomputers.org/NeXTfiles/Software/Diagnostic_Utilities/68040_manual.pdf)
++ [booting issues ](http://www.nextcomputers.org/forums/viewtopic.php?t=718&highlight=nextcube+turbo)
++ [NeXT FAQ](http://www.levenez.com/NeXTSTEP/faq.html)
++ [algo](http://www.nextcomputers.org/forums/viewtopic.php?t=250&highlight=loading+network)
