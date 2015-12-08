@@ -84,3 +84,6 @@ en CPU, cambié el hard disk Maxtor por el Seagate:
 + [booting issues ](http://www.nextcomputers.org/forums/viewtopic.php?t=718&highlight=nextcube+turbo)
 + [NeXT FAQ](http://www.levenez.com/NeXTSTEP/faq.html)
 + [algo](http://www.nextcomputers.org/forums/viewtopic.php?t=250&highlight=loading+network)
++ https://groups.google.com/forum/#!topic/comp.sys.next.hardware/zUfU7mli_J0
++ http://www.nextcomputers.org/forums/viewtopic.php?t=2733&sid=bdc71a728abbd1581b6734ffc92b3376
++ http://www.shawcomputing.net/resources/next/hardware/boot_floppies/boot_floppies.html
