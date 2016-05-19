@@ -87,3 +87,13 @@ en CPU, cambié el hard disk Maxtor por el Seagate:
 + https://groups.google.com/forum/#!topic/comp.sys.next.hardware/zUfU7mli_J0
 + http://www.nextcomputers.org/forums/viewtopic.php?t=2733&sid=bdc71a728abbd1581b6734ffc92b3376
 + http://www.shawcomputing.net/resources/next/hardware/boot_floppies/boot_floppies.html
+
+
+
+
+
++ http://ohlandl.ipv7.net/SCSI/Mixing-narrow-wide.html
++ http://www.paralan.com/scsifaq/scsifaqanswers2.html
++ http://www.redrocktech.com/products/scsi-drives
++ http://www.ebay.com/itm/Internal-50pin-HPDB68-HD68wire-Female-F-SCSI3-cable-cord-drive-HD-SUN-PC-Adapter-/301951036735
++ http://www.globalsources.com/GeneralManager?action=ReMap&where=GoSearchProduct&query=SCSI+connectors&items_per_page=60&keywords=scsi%20connectors&matchtype=b&device=c&WT.mc_id=1001007&WT.srch=1&gclid=CjwKEAjwyPW5BRCC3JaM7qfW_FwSJACM3jz9U23EwqN9lOldzPGXYaOc--zktbaKRBP8yo7qeIYN7BoCiyfw_wcB
